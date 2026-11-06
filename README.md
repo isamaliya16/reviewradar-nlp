@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Open%20on%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP-NAME.streamlit.app)
+[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Open%20on%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://reviewradarr.streamlit.app/)
 
-**🔗 Live Streamlit URL:** https://YOUR-APP-NAME.streamlit.app
+**🔗 Live Streamlit URL:** https://reviewradarr.streamlit.app/
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E88E5,100:00ACC1&height=220&section=header&text=NLP%20%7C%20Practical%20Exam%20Set%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fashion%20Review%20Analytics%20%C2%B7%20From%20Raw%20Text%20to%20a%20Streamlit%20App)
 
