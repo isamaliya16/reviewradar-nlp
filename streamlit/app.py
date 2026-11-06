@@ -7,7 +7,7 @@ from text_utils import clean_text
 
 @st.cache_resource
 def load_pipeline():
-    return joblib.load('model/recommend_pipeline.pkl')
+    return joblib.load('recommend_pipeline.pkl')
 
 
 @st.cache_resource
