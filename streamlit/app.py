@@ -4,11 +4,17 @@ import nltk
 import streamlit as st
 from text_utils import clean_text
 
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
+MODEL_PATH = ROOT_DIR / "model" / "recommend_pipeline.pkl"
 
 @st.cache_resource
 def load_pipeline():
-    return joblib.load('recommend_pipeline.pkl')
+    if not MODEL_PATH.exists():
+        st.error(f"Model file not found: {MODEL_PATH}")
+        st.stop()
 
+    return joblib.load(MODEL_PATH)
 
 @st.cache_resource
 def load_tagger():
