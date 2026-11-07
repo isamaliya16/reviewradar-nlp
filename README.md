@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Open%20on%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://reviewradarr.streamlit.app/)
+[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Open%20on%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://reviewradar-nlp.streamlit.app/)
 
-**🔗 Live Streamlit URL:** https://reviewradarr.streamlit.app/
+**🔗 Live Streamlit URL:** https://reviewradar-nlp.streamlit.app/ 
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E88E5,100:00ACC1&height=220&section=header&text=NLP%20%7C%20Practical%20Exam%20Set%20C&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fashion%20Review%20Analytics%20%C2%B7%20From%20Raw%20Text%20to%20a%20Streamlit%20App)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E88E5,100:00ACC1&height=220&section=header&text=NLP%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fashion%20Review%20Analytics%20%C2%B7%20From%20Raw%20Text%20to%20a%20Streamlit%20App)
 
 <br>
 
@@ -46,11 +46,11 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR-VIDEO-LINK)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YdgfaOQ3YFVllaN52xzrpA1M39PIbKhL/view?usp=sharing)
 
 🎥 **A complete video explanation (face + screen, 5–10 min)** covering text preprocessing and RegEx, BoW vs TF-IDF vs N-grams, CBoW vs Skip-gram, the classification pipeline and threshold choice, heuristic vs VADER vs ML, POS tagging, why vectorisers are fitted on training data only, and a **live demo of the Streamlit app**.
 
-> 📌 *Click the button above or [open the video directly →](YOUR-VIDEO-LINK)*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1YdgfaOQ3YFVllaN52xzrpA1M39PIbKhL/view?usp=sharing)*
 
 </div>
 
@@ -430,7 +430,7 @@ To re-run the notebook, download the CSV from [Kaggle](https://www.kaggle.com/da
 
 <div align="center">
 
-### **YOUR NAME**
+### **Ayush Isamaliya**
 *Data Science & NLP Learner*
 
 </div>
