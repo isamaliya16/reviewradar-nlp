@@ -1,0 +1,8 @@
+{
+  "Fit & size": ["fit", "fits", "fitting", "size", "sizing", "small", "smaller", "large", "larger", "big", "tight", "loose", "snug", "baggy", "boxy", "runs", "petite", "tts"],
+  "Fabric & quality": ["fabric", "material", "quality", "stitching", "seam", "seams", "thin", "sheer", "see through", "ripped", "tore", "pilling", "wrinkle", "wrinkles", "shrunk", "shrink", "faded", "flimsy", "poorly made", "well made", "cheap"],
+  "Comfort": ["comfortable", "comfy", "uncomfortable", "itchy", "scratchy", "soft", "stiff", "heavy", "warm", "cozy"],
+  "Style & look": ["color", "colour", "flattering", "unflattering", "style", "cute", "pretty", "beautiful", "ugly", "frumpy", "stylish", "design", "pattern", "print"],
+  "Price & value": ["price", "expensive", "worth", "overpriced", "pricey", "value", "sale", "money"],
+  "Returns": ["return", "returned", "returning", "refund", "exchange", "sent back", "send back", "disappointed"]
+}
